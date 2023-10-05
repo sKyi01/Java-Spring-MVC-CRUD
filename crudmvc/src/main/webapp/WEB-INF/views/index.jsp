@@ -4,7 +4,7 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
 </head>
-<body style="background-image: url(/img/background.jpg);">
+<body style="background-image: url(\img\background.jpg);">
 ">
 
 
